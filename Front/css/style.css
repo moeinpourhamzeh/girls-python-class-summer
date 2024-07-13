@@ -1,0 +1,27 @@
+.h-screen {
+    height: 100vh;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.flex {
+    display: flex;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.my-button {
+    padding: 15px;
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+    border: none;
+}
